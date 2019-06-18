@@ -22,7 +22,22 @@ Students will walk away with a deeper understanding of digital audio and how to 
 
 ### Pacing / Duration
 #### Part 1
+* ~ 10-15 min Introduction to Workshop
+  * Music (with computers?)
+* 10-15 min Introduction to Max
+  * What can you do with Max?
+* How to play a sound file
+  * change speed
+  * change pitch
+  * switch between tracks
+* Microphone in/sound out
+* Feedback and delay
+* Recording with Audacity
+
 #### Part 2
+* ~45 min vocoder
+* ~45 min sequencer
+* ~30 min to play
 
 ## Materials Needed & Exercises To Do Before Class
 ### Software to download ahead of time
