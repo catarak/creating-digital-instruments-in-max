@@ -47,12 +47,27 @@ Students will walk away with a deeper understanding of digital audio and how to 
 ### Materials and Resources
 * [Freesound](https://freesound.org/)
 
-### Vocabulary (example)
+### Vocabulary
+* DAW (Digital Audio Workstation): Software used for recording, editing, and producing audio files
+* Patch
+* Digital Instrument
+* Audio Effect
+* Vocoder
+* Sequencer
 * Program: A procedure, or set of instructions, that performs a specific task when executed by a computer. 
 * Programming Language: The human-readable commands and syntax (or grammar rules) used to write programs. 
+* Graphical Programming Language: A programming language in which users create programs by manipulating elements using a GUI (graphical user interface) rather than using text. 
+
+### Listening & Watching Examples
+* [Lucky Dragons - Make a Baby](https://luckydragons.org/category/make-a-baby/)
+* [Leafcutter John - Against the Clock](https://www.youtube.com/watch?v=X1cmWFP3f8o)
+* [Tarik Barri and Sote - Sacred Horror in Design](https://vimeo.com/244348082)
+* [Interview with Jessica Ekomane](https://cycling74.com/articles/artist-focus-jessica-ekomane)
+* [Interview with AGF](https://cycling74.com/articles/an-interview-with-antye-greie-ripatti-agf)
+* [Radiohead - The Gloaming](https://www.youtube.com/watch?v=l05EBdxKo2U)
 
 ## Exercise Descriptions
-Descriptions of each exercise or phase of class. Similar to pacing but with more description of steps.
+* Free Play - Play with the instruments we made in class and experiment with all of the different types of sounds you can make. Write down what you did. Try to string some of these actions together into something you like, or something you think is fun.
 
 ## Student Reflections, Takeaways and Next Steps
 Additional materials for the students to leave with that can help them dig deeper into the subject or additional exercises and challenges to help students progress their knowledge to the next leve and gain mastery of the subject through independent study.
@@ -64,6 +79,12 @@ Additional materials for the students to leave with that can help them dig deepe
 * Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
 
 ## Post Session
+You can continue learning Max with these Resources:
+* [Programming Max: Structuring Interactive Software for Digital Arts (Kadenze Course)](https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts/info)
+* [Delicious Max Tutorials](https://www.youtube.com/user/dude837)
+* [Max/MSP/Jitter for Music](https://amazon.com/Max-MSP-Jitter-Music-Interactive/dp/0190243740/ref=dp_ob_title_bk)
+* [20 Objects](http://darwingrosse.com/20Objects/)
+* We also recommend looking into Max For Live and Ableton Live as companion tools
 
 ### References
 Include any sources cited, but not directly linked in the unit.
