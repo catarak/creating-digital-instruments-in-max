@@ -32,6 +32,7 @@ Students will walk away with a deeper understanding of digital audio and how to 
   * switch between tracks
 * Microphone in/sound out
 * Feedback and delay
+  * with tapin~/tapout~, connect LFO to tapout for pitch shifting
 * Recording with Audacity
 
 #### Part 2
