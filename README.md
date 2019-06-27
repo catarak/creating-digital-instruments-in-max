@@ -15,12 +15,13 @@ This workshop will focus on using Max software to create custom digital musical 
 Approximately 3 hours will be spent learning the software and various audio techniques. The last hour will be dedicated to open lab time where students can work on their own projects, using the tools they just learned.
 
 ### Target Audience / Prerequisite & Pre-Assessment
-High school students, ages 14+
+High school students, ages 14+. No prerequisites required. Please have Max 8 and Audacity installed on your machine before the start of class. 
 
 ### Outcomes & Goals
-Students will walk away with a deeper understanding of digital audio and how to build a few different types of digital instruments. They will also learn about different types of musical interfaces.
+In this workshop we will be creating custom digital musical instruments using Max software and field recordings. Students will walk away with a deeper understanding of digital audio and how to build a few different types of digital instruments. They will also learn about different types of musical interfaces.
 
 ### Pacing / Duration
+4 hours total
 #### Part 1
 * ~ 10-15 min Introduction to Workshop
   * Music (with computers?)
