@@ -83,6 +83,7 @@ You can continue learning Max with these Resources:
 * [Delicious Max Tutorials](https://www.youtube.com/user/dude837)
 * [Max/MSP/Jitter for Music](https://amazon.com/Max-MSP-Jitter-Music-Interactive/dp/0190243740/ref=dp_ob_title_bk)
 * [20 Objects](http://darwingrosse.com/20Objects/)
+* [Max 8 Tutorials](https://www.youtube.com/playlist?list=PLVIa8UkRzErsL95NoKH0QFaoLVMFqxbnA)
 * We also recommend looking into Max For Live and Ableton Live as companion tools
 
 ### References
