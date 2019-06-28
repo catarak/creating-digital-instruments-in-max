@@ -108,15 +108,6 @@ In this workshop we will be creating custom digital musical instruments using Ma
   * Working in groups of 2, make a patch that incorporates techniques from the first and second parts of the workshop. Experiment with all the different types of sounds you can make. Write down what you did. Control some aspect of your patch with either audio input or your keyboard, and create a user interface in presentation mode that anyone can understand. At the end of class be ready to explain what you did and why. 
 
 ## Student Reflections, Takeaways and Next Steps
-Additional materials for the students to leave with that can help them dig deeper into the subject or additional exercises and challenges to help students progress their knowledge to the next leve and gain mastery of the subject through independent study.
-* Multiple Project Exit Points: an idea of high-medium-low projects so students are locked into one end product.
-  * First Steps - a simple exercise
-  * Next Steps - medium exercise
-  * Big Steps - a challenge or open ended study
-* Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
-* Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
-
-## Post Session
 You can continue learning Max with these Resources:
 * [Programming Max: Structuring Interactive Software for Digital Arts (Kadenze Course)](https://www.kadenze.com/courses/programming-max-structuring-interactive-software-for-digital-arts/info)
 * [Delicious Max Tutorials](https://www.youtube.com/user/dude837)
@@ -124,6 +115,12 @@ You can continue learning Max with these Resources:
 * [20 Objects](http://darwingrosse.com/20Objects/)
 * [Max 8 Tutorials (by dearjohnreed)](https://www.youtube.com/playlist?list=PLVIa8UkRzErsL95NoKH0QFaoLVMFqxbnA)
 * We also recommend looking into Max For Live and Ableton Live as companion tools
+
+Need help with your patch? Out online forums are a great way to get help from fellow Max users: https://cycling74.com/forums
+
+If you would like to share the work you have created with Max, you can submit a project on Cycling 74's website: https://cycling74.com/projects
+
+## Post Session
 
 ### References
 * [Cycling 74](www.cycling74.com) 
