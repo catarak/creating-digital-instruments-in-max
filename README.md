@@ -38,13 +38,14 @@ In this workshop we will be creating custom digital musical instruments using Ma
   * Working in groups of 2, make a patch that expands upon the techniques we just learned. You can either use a provided sound file, or make your own. 
   
 #### Part 2: 2 hours
-* ~30 min - Vocoder patch 
-* ~30 min - Sequencer patch 
-* ~20 min - Integrate a controller/Create custom interface
+* ~50 min - Further explorations in how to manipulate a sound file 
+  * Vocoder 
+  * Sequencer 
+* ~30 min - Integrate a controller/Create custom interface
+  * Look at examples of different musical interfaces.
   * What are different ways you can trigger or control your patch? 
    * Trigger events through audio input 
    * Use your keyboard as a controller
-  * Look at examples of different musical interfaces.
   * Presentation mode 
 * ~10 min - Break
 * ~30 min - Group Projects & Free Play 
