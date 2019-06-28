@@ -86,9 +86,9 @@ You can continue learning Max with these Resources:
 * We also recommend looking into Max For Live and Ableton Live as companion tools
 
 ### References
-Cycling 74 - www.cycling74.com
-Audacity - https://www.audacityteam.org/
-Free Sound - https://freesound.org/
+* [Cycling 74](www.cycling74.com) 
+* [Audacity](https://www.audacityteam.org/)
+* [Free Sound](https://freesound.org/)
 
 ### Implementation Guidance &  Teaching Reflection  
 e.g. Please provide some guidance based on experience delivering the unit and potential modifications might you are considering making for future iterations of this unit. This is an opportunity for you as the unit author to give teachers practical guidance.
