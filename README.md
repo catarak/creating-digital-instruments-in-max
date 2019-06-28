@@ -10,13 +10,13 @@ Cassie Tarakajian, Ashley Bellouin
 - What is the most recently invented instrument?
 
 ## Introduction
-This workshop will focus on using Max software to create custom digital musical instruments. Starting from a beginners standpoint, we will introduce Max and cover the basics of the software, then focus on creating experimental sounds by manipulating provided field recordings and/or student’s own audio recordings. Some processing techniques that will be covered are delay, feedback, and filtering, as well as how to create a simple vocoder and sequencer. We will also show how to interact with these programs through a simple, custom interface. At the end of the workshop, students should understand how to create their own digital musical instruments that can be played by anyone. By creating a final interface that is simple to understand and interact with, these digital instruments become accessible to the vast majority of people. No musical or programming knowledge is required to create sound. In general, classical musical instruments have complex designs that can be intimidating to approach, require certain physicality to use, and take years of practice to understand. The end goal of this workshop is to create a musical instrument that anyone can play through a few simple button presses.
+This workshop will focus on using Max software to create custom digital musical instruments. Starting from a beginners standpoint, we will introduce Max and cover the basics of the software, then focus on creating experimental sounds by manipulating provided audio recordings and/or student’s own recordings. Some processing techniques that will be covered are delay, feedback, and filtering, as well as how to create a simple vocoder and sequencer. We will also show how to interact with these programs through a simple, custom interface. At the end of the workshop, students should understand how to create their own digital musical instruments that can be played by anyone. By creating a final interface that is simple to understand and interact with, these digital instruments become accessible to the vast majority of people. No musical or programming knowledge is required to create sound. In general, classical musical instruments have complex designs that can be intimidating to approach, require certain physicality to use, and take years of practice to understand. The end goal of this workshop is to create a musical instrument that anyone can play through a few simple button presses.
 
 ### Target Audience / Prerequisite & Pre-Assessment
 High school students, ages 14+. No prerequisites required. Please have Max 8 and Audacity installed on your machine before the start of class. 
 
 ### Outcomes & Goals
-In this workshop we will be creating custom digital musical instruments using Max software and field recordings. Students will walk away with a deeper understanding of digital audio and how to build a few different types of digital instruments. They will also learn about different types of musical interfaces.
+In this workshop we will be creating custom digital musical instruments using Max software and audio recordings. Students will walk away with a deeper understanding of digital audio and how to build a few different types of digital instruments. They will also learn about different types of musical interfaces.
 
 ### Pacing / Duration
 4 hours total
@@ -66,7 +66,6 @@ In this workshop we will be creating custom digital musical instruments using Ma
 * Audio Effect: a way to change the characteristics of a sound. 
 * Vocoder: a synthesizer that produces sounds from an analysis of audio input. This was originally used for a voice effect. 
 * Sequencer: a system for outputting events (sounds) at specified intervals.
-* Field Recordings: an audio recording produced outside a recording studio. 
 * Delay: an audio effect that records an input signal, then plays it back after a period of time.
 * Feedback: A signal chain where the output of a signal is fed back into it's input. 
 * Filtering: an audio effect that heightens or lowers certain frequencies in a sound. 
@@ -110,4 +109,6 @@ You can continue learning Max with these Resources:
 * [Free Sound](https://freesound.org/)
 
 ### Implementation Guidance &  Teaching Reflection  
-e.g. Please provide some guidance based on experience delivering the unit and potential modifications might you are considering making for future iterations of this unit. This is an opportunity for you as the unit author to give teachers practical guidance.
+* The main goal of this course should be to have fun and inspire the students! Attention spans can quickly diminish if too much time is spent instructing. Instead of lecturing, make sure students quickly start creating patches. 
+* Students learn better when they make their ouw patches, instead of playing with pre-built ones. Have them patch along in the beginning, then make sure to have dedicated lab time where they can create their own work. 
+* A lot of class time can be wasted on finding audio samples online. Provide a curated selection of samples that they can work with. Make sure these samples sound good when processed using the techniques taught. Have nature sounds, classic instruments, percussion, and some more experimental sounds. 
