@@ -24,7 +24,7 @@ In this workshop we will be creating custom digital musical instruments using Ma
 * ~30 min - Introduction to Workshop. 
   * What is a musical instrument? 
   * What is Max and what can you do with it? Show example works.
-  * Get aquainted with the Max interface
+  * Get acquainted with the Max interface
 * ~50 min - The basics of manipulating a sound 
   * How to play back a sound file
   * Adjust speed, switch between files
