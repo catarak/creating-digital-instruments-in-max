@@ -76,6 +76,7 @@ In this workshop we will be creating custom digital musical instruments using Ma
 
 ### Listening & Watching Examples
 * [Lucky Dragons - Make a Baby](https://luckydragons.org/category/make-a-baby/)
+* [The Instruments of Laetitia Sonami](http://sonami.net/instruments/)
 * [Leafcutter John - Against the Clock](https://www.youtube.com/watch?v=X1cmWFP3f8o)
 * [Tarik Barri and Sote - Sacred Horror in Design](https://vimeo.com/244348082)
 * [Interview with Jessica Ekomane](https://cycling74.com/articles/artist-focus-jessica-ekomane)
