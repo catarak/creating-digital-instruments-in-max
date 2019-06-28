@@ -83,28 +83,28 @@ In this workshop we will be creating custom digital musical instruments using Ma
 * [Radiohead - The Gloaming](https://www.youtube.com/watch?v=l05EBdxKo2U)
 
 ## Exercise Descriptions
-* The basics of manipulating a sound
+* The basics of manipulating a sound (50 minutes)
   * Show how to play back a sound file using buffer~ and groove~. Copy/paste from the groove~ help patch! Show that all help patches are interactive. 
   * Introduce proper naming techniques, audio status, file preferences 
   * Looping, adjust speed, timestretch, switch between files
   * Delay/Feedback - tapin~ and tapout~. Show how to encapsulate.
   * Filtering - biquad~ with a filtergraph~. Copy/paste from the biquad~ help patch. 
   * Save presets with the preset object 
-* Recording with Audacity & Group Projects 
+* Recording with Audacity & Group Projects (30 minutes)
   * Show how to record audio in Audacity and export. These files can be loaded into Max in the same way as before. 
   * Working in groups of 2, make a patch that expands upon the techniques we just learned. You can either use a provided sound file, or make your own. Adjust the speed, add feedback, delay, and filtering, and create some presets. Have multiple sounds playing at once, and/or process a single sound in multiple different ways. 
-* Further explorations in how to manipulate a sound  
+* Further explorations in how to manipulate a sound (50 minutes)
   * Vocoder 
   * Sequencer 
   * Introduce random and scale objects. 
   * Show how to access ref pages for more information, or use the Search sidebar
-* Integrate a controller/Create custom interface
+* Integrate a controller/Create custom interface (30 minutes) 
   * Look at examples of different musical interfaces: Buchla, Theramin, Lucky Dragons, Laetitia Sonami, etc. 
   * What are different ways you can trigger or control your patch? 
    * Trigger events through audio input - adc~, peakamp~ and if/then to trigger based on amplitude. You can also filter the input to trigger based on frequency. 
    * Use your keyboard as a controller - key and sel objects        
   * Presentation mode - clean up your patch into a nice presentation so that anyone can approach it and make sound. 
-* ~30 min - Group Projects & Free Play 
+* ~30 min - Group Projects & Free Play (30 minutes) 
   * Working in groups of 2, make a patch that incorporates techniques from the first and second parts of the workshop. Experiment with all the different types of sounds you can make. Write down what you did. Control some aspect of your patch with either audio input or your keyboard, and create a user interface in presentation mode that anyone can understand. At the end of class be ready to explain what you did and why. 
 
 ## Student Reflections, Takeaways and Next Steps
