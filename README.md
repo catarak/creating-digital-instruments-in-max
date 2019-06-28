@@ -21,9 +21,10 @@ In this workshop we will be creating custom digital musical instruments using Ma
 ### Pacing / Duration
 4 hours total
 #### Part 1
-* ~15 min - Introduction to Workshop. What is a musical instrument? 
-* ~10 min - Introduction to Max & example works 
-* ~15 min - Get aquainted with the Max interface
+* ~30 min - Introduction to Workshop. 
+  * What is a musical instrument? 
+  * What is Max and what can you do with it? Show example works.
+  * Get aquainted with the Max interface
 * ~50 min - The basics of manipulation a sound file
   * How to play back a sound file
   * Adjust speed, switch between files
@@ -31,12 +32,17 @@ In this workshop we will be creating custom digital musical instruments using Ma
   * Delay
   * Filtering 
   * Presets 
-* ~30 min - Recording with Audacity
-
+* ~10 min - Break
+* ~30 min - Recording with Audacity & Group Projects 
+  * You can create your own sound files with Audacity 
+  * Working in groups of 2, make a patch that expands upon the techniques we just learned. You can either use a provided sound file, or make your own. 
+  
 #### Part 2
 * ~30 min - Vocoder patch 
 * ~30 min - Sequencer patch 
-* ~30 min - Integrate a controller/Create custom interface
+* ~20 min - Integrate a controller/Create custom interface
+  * 
+* ~10 min - Break
 * ~30 min - Free play
 
 ## Materials Needed & Exercises To Do Before Class
