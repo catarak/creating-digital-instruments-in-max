@@ -110,5 +110,5 @@ You can continue learning Max with these Resources:
 
 ### Implementation Guidance &  Teaching Reflection  
 * The main goal of this course should be to have fun and inspire the students! Attention spans can quickly diminish if too much time is spent instructing. Instead of lecturing, make sure students quickly start creating patches. 
-* Students learn better when they make their ouw patches, instead of playing with pre-built ones. Have them patch along in the beginning, then make sure to have dedicated lab time where they can create their own work. 
+* Students learn better when they make their own patches, instead of playing with pre-built ones. Have them patch along in the beginning, then make sure to have dedicated lab time where they can create their own work. 
 * A lot of class time can be wasted on finding audio samples online. Provide a curated selection of samples that they can work with. Make sure these samples sound good when processed using the techniques taught. Have nature sounds, classic instruments, percussion, and some more experimental sounds. 
