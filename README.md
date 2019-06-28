@@ -25,7 +25,7 @@ In this workshop we will be creating custom digital musical instruments using Ma
   * What is a musical instrument? 
   * What is Max and what can you do with it? Show example works.
   * Get aquainted with the Max interface
-* ~50 min - The basics of manipulation a sound file
+* ~50 min - The basics of manipulating a sound 
   * How to play back a sound file
   * Adjust speed, switch between files
   * Feedback
@@ -38,7 +38,7 @@ In this workshop we will be creating custom digital musical instruments using Ma
   * Working in groups of 2, make a patch that expands upon the techniques we just learned. You can either use a provided sound file, or make your own. 
   
 #### Part 2: 2 hours
-* ~50 min - Further explorations in how to manipulate a sound file 
+* ~50 min - Further explorations in how to manipulate a sound  
   * Vocoder 
   * Sequencer 
 * ~30 min - Integrate a controller/Create custom interface
