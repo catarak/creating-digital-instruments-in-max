@@ -116,7 +116,7 @@ You can continue learning Max with these Resources:
 * [Max 8 Tutorials (by dearjohnreed)](https://www.youtube.com/playlist?list=PLVIa8UkRzErsL95NoKH0QFaoLVMFqxbnA)
 * We also recommend looking into Max For Live and Ableton Live as companion tools
 
-Need help with your patch? Out online forums are a great way to get help from fellow Max users: https://cycling74.com/forums
+Need help with your patch? Our online forums are a great way to get help from fellow Max users: https://cycling74.com/forums
 
 If you would like to share the work you have created with Max, you can submit a project on Cycling 74's website: https://cycling74.com/projects
 
