@@ -104,7 +104,7 @@ In this workshop we will be creating custom digital musical instruments using Ma
    * Trigger events through audio input - adc~, peakamp~ and if/then to trigger based on amplitude. You can also filter the input to trigger based on frequency. 
    * Use your keyboard as a controller - key and sel objects        
   * Presentation mode - clean up your patch into a nice presentation so that anyone can approach it and make sound. 
-* ~30 min - Group Projects & Free Play (30 minutes) 
+* Group Projects & Free Play (30 minutes) 
   * Working in groups of 2, make a patch that incorporates techniques from the first and second parts of the workshop. Experiment with all the different types of sounds you can make. Write down what you did. Control some aspect of your patch with either audio input or your keyboard, and create a user interface in presentation mode that anyone can understand. At the end of class be ready to explain what you did and why. 
 
 ## Student Reflections, Takeaways and Next Steps
