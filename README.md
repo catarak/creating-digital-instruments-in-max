@@ -33,9 +33,8 @@ In this workshop we will be creating custom digital musical instruments using Ma
   * Filtering 
   * Presets 
 * ~10 min - Break
-* ~30 min - Recording with Audacity & Group Projects 
+* ~30 min - Recording with Audacity & Free Play
   * You can create your own sound files with Audacity 
-  * Working in groups of 2, make a patch that expands upon the techniques we just learned. You can either use a provided sound file, or make your own. 
   
 #### Part 2: 2 hours
 * ~50 min - Further explorations in how to manipulate a sound  
@@ -90,9 +89,9 @@ In this workshop we will be creating custom digital musical instruments using Ma
   * Delay/Feedback - tapin~ and tapout~. Show how to encapsulate.
   * Filtering - biquad~ with a filtergraph~. Copy/paste from the biquad~ help patch. 
   * Save presets with the preset object 
-* Recording with Audacity & Group Projects (30 minutes)
+* Recording with Audacity & Free Play (30 minutes)
   * Show how to record audio in Audacity and export. These files can be loaded into Max in the same way as before. 
-  * Working in groups of 2, make a patch that expands upon the techniques we just learned. You can either use a provided sound file, or make your own. Adjust the speed, add feedback, delay, and filtering, and create some presets. Have multiple sounds playing at once, and/or process a single sound in multiple different ways. 
+  * Use the remainder of this time to play with your patches and expand upon them. You can either use a provided sound file, or make your own. Adjust the speed, add feedback, delay, and filtering, and create some presets. Have multiple sounds playing at once, and/or process a single sound in multiple different ways. 
 * Further explorations in how to manipulate a sound (50 minutes)
   * Vocoder 
   * Sequencer 
