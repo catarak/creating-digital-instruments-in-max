@@ -91,11 +91,12 @@ In this workshop we will be creating custom digital musical instruments using Ma
   * Save presets with the preset object 
 * Recording with Audacity & Free Play (30 minutes)
   * Show how to record audio in Audacity and export. These files can be loaded into Max in the same way as before. 
-  * Use the remainder of this time to play with your patches and expand upon them. You can either use a provided sound file, or make your own. Adjust the speed, add feedback, delay, and filtering, and create some presets. Have multiple sounds playing at once, and/or process a single sound in multiple different ways. 
+  * Use the remainder of this time to play with your patches and expand upon them. You can either use a provided sound file, or make your own. Adjust the speed, add feedback, delay, and filtering, and create some presets. Have multiple sounds playing at once, and/or process a single sound in different ways. You can change where the filter is placed in the signal chain, have multiple delays, or only add delay to one channel. 
 * Further explorations in how to manipulate a sound (50 minutes)
   * Vocoder 
   * Sequencer 
   * Introduce random and scale objects. 
+  * Panning
   * Show how to access ref pages for more information, or use the Search sidebar
 * Integrate a controller/Create custom interface (30 minutes) 
   * Look at examples of different musical interfaces: Buchla, Theramin, Lucky Dragons, Laetitia Sonami, etc. 
