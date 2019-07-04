@@ -32,22 +32,25 @@ In this workshop we will be creating custom digital musical instruments using Ma
   * Delay
   * Filtering 
   * Presets 
+  * Audacity (if time permits)
 * ~10 min - Break
-* ~30 min - Recording with Audacity & Free Play
-  * You can create your own sound files with Audacity 
+* ~30 min - Sequencer
+  * What is a sequencer? 
+  * metro, cycle, ggate
   
 #### Part 2: 2 hours
-* ~50 min - Further explorations in how to manipulate a sound  
-  * Vocoder 
-  * Sequencer 
-* ~30 min - Integrate a controller/Create custom interface
+* ~30 min - Vocoder 
+  * What is a vocoder?
+  * Show examples built into Max. Copy/paste from example patch. 
+  * Panning
+* ~40 min - Integrate a controller/Create custom interface
   * Look at examples of different musical interfaces.
   * What are different ways you can trigger or control your patch? 
-   * Trigger events through audio input 
    * Use your keyboard as a controller
+   * Trigger events through audio input 
   * Presentation mode 
-* ~10 min - Break
-* ~30 min - Group Projects & Free Play 
+* ~5 min - Break
+* ~45 min - Group Projects
   * Working in groups of 2, make a patch that incorporates techniques from the first and second parts of the workshop. Control some aspect of your patch with either audio input or your keyboard, and create a user interface in presentation mode that anyone can understand. 
 
 ## Materials Needed & Exercises To Do Before Class
@@ -84,27 +87,30 @@ In this workshop we will be creating custom digital musical instruments using Ma
 ## Exercise Descriptions
 * The basics of manipulating a sound (50 minutes)
   * Show how to play back a sound file using buffer~ and groove~. Copy/paste from the groove~ help patch! Show that all help patches are interactive. 
-  * Introduce proper naming techniques, audio status, file preferences 
-  * Looping, adjust speed, timestretch, switch between files
+  * Introduce proper naming techniques, file preferences 
+  * Looping, adjust speed, timestretch, switch between files (umenu)
   * Delay/Feedback - tapin~ and tapout~. Show how to encapsulate.
-  * Filtering - biquad~ with a filtergraph~. Copy/paste from the biquad~ help patch. 
-  * Save presets with the preset object 
-* Recording with Audacity & Free Play (30 minutes)
-  * Show how to record audio in Audacity and export. These files can be loaded into Max in the same way as before. 
-  * Use the remainder of this time to play with your patches and expand upon them. You can either use a provided sound file, or make your own. Adjust the speed, add feedback, delay, and filtering, and create some presets. Have multiple sounds playing at once, and/or process a single sound in different ways. You can change where the filter is placed in the signal chain, have multiple delays, or only add delay to one channel. 
-* Further explorations in how to manipulate a sound (50 minutes)
-  * Vocoder 
-  * Sequencer 
-  * Introduce random and scale objects. 
-  * Panning
-  * Show how to access ref pages for more information, or use the Search sidebar
-* Integrate a controller/Create custom interface (30 minutes) 
+  * Filtering - biquad~ with a filtergraph~. Copy/paste from the biquad~ help patch. Go over the main filter types.
+  * Save presets with the preset object. Some objects, such as attrui, cannot be saved with presets. Change these to a umenu.
+  * If there's extra time, show how to record in Audacity and export. These files can then be loaded into Max.
+* Sequencer (30 minutes)
+  * Explain what a sequencer is. 
+  * Make a simple sequencer by triggering different groove~ objects to play sound files. 
+  * Use metro, cycle, and ggate. You can skip a step in the sequence by "closing" the ggate.  
+  * Add presets 
+* Vocoder (30 minutes)
+  * Explain what a vocoder is. 
+  * Show the example built into Max. Extras > Examples Overview > MSP > Effects.
+  * Copy/paste from example patch into your own patch. When copying a section from a different patch, pay attention to where that section goes in the signal chain. 
+  * Panning with pan2S. Use a cycle~ object to control panning speed. 
+  * You can have two separate channels where you process the audio differently, then pan those channels to be out of phase with each other. 
+* Integrate a controller/Create custom interface (40 minutes) 
   * Look at examples of different musical interfaces: Buchla, Theramin, Lucky Dragons, Laetitia Sonami, etc. 
   * What are different ways you can trigger or control your patch? 
-   * Trigger events through audio input - adc~, peakamp~ and if/then to trigger based on amplitude. You can also filter the input to trigger based on frequency. 
-   * Use your keyboard as a controller - key and sel objects        
+   * Use your keyboard as a controller - key and sel objects. Introduce random and scale objects.      
+   * Trigger events through audio input - adc~, peakamp~ and if/then to trigger based on amplitude. 
   * Presentation mode - clean up your patch into a nice presentation so that anyone can approach it and make sound. 
-* Group Projects & Free Play (30 minutes) 
+* Group Projects (45 minutes) 
   * Working in groups of 2, make a patch that incorporates techniques from the first and second parts of the workshop. Experiment with all the different types of sounds you can make. Write down what you did. Control some aspect of your patch with either audio input or your keyboard, and create a user interface in presentation mode that anyone can understand. At the end of class be ready to explain what you did and why. 
 
 ## Student Reflections, Takeaways and Next Steps
