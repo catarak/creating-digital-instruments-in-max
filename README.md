@@ -13,7 +13,7 @@ Cassie Tarakajian, Ashley Bellouin
 This workshop will focus on using Max software to create custom digital musical instruments. Starting from a beginners standpoint, we will introduce Max and cover the basics of the software, then focus on creating experimental sounds by manipulating provided audio recordings and/or student’s own recordings. Some processing techniques that will be covered are delay, feedback, and filtering, as well as how to create a simple vocoder and sequencer. We will also show how to interact with these programs through a simple, custom interface. At the end of the workshop, students should understand how to create their own digital musical instruments that can be played by anyone. By creating a final interface that is simple to understand and interact with, these digital instruments become accessible to the vast majority of people. No musical or programming knowledge is required to create sound. In general, classical musical instruments have complex designs that can be intimidating to approach, require certain physicality to use, and take years of practice to understand. The end goal of this workshop is to create a musical instrument that anyone can play through a few simple button presses.
 
 ### Target Audience / Prerequisite & Pre-Assessment
-High school students, ages 14+. No prerequisites required. Please have Max 8 and Audacity installed on your machine before the start of class. 
+High school students, ages 14+. No prerequisites required. Please have Max 8 and Audacity installed on your machine before the start of class. If there are specific sound samples you want to use in the workshop, please download and bring them to class. You can search for free sounds here: https://freesound.org/
 
 ### Outcomes & Goals
 In this workshop we will be creating custom digital musical instruments using Max software and audio recordings. Students will walk away with a deeper understanding of digital audio and how to build a few different types of digital instruments. They will also learn about different types of musical interfaces.
@@ -59,7 +59,7 @@ In this workshop we will be creating custom digital musical instruments using Ma
 * [Audacity](https://www.audacityteam.org/)
 
 ### Materials and Resources
-* [Freesound](https://freesound.org/)
+* If there are specific sound samples you want to use in the workshop, please download and bring them to class. These can be whatever you want...a song, crickets, your voice, etc. You can also search for free sounds here: https://freesound.org/
 
 ### Vocabulary
 * DAW (Digital Audio Workstation): Software used for recording, editing, and producing audio files
