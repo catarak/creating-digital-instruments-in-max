@@ -59,7 +59,8 @@ In this workshop we will be creating custom digital musical instruments using Ma
 * [Audacity](https://www.audacityteam.org/)
 
 ### Materials and Resources
-* If there are specific sound samples you want to use in the workshop, please download and bring them to class. These can be whatever you want...a song, crickets, your voice, etc. You can also search for free sounds here: https://freesound.org/
+* Please download this folder before class and place it in your Documents folder: https://cycling74.s3.amazonaws.com/support/Eyebeam_Max.zip
+* If you want, you can download more free sounds from here: https://freesound.org/
 
 ### Vocabulary
 * DAW (Digital Audio Workstation): Software used for recording, editing, and producing audio files
