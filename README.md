@@ -87,7 +87,7 @@ In this workshop we will be creating custom digital musical instruments using Ma
 
 ## Exercise Descriptions
 * The basics of manipulating a sound (50 minutes)
-  * Show how to play back a sound file using buffer~ and groove~. Copy/paste from the groove~ help patch! Show that all help patches are interactive. 
+  * Show how to play back a sound file using playist~. Copy and paste from the help patch! Show that all help patches are interactive. 
   * Introduce proper naming techniques, file preferences 
   * Looping, adjust speed, timestretch, switch between files (umenu)
   * Delay/Feedback - tapin~ and tapout~. Show how to encapsulate.
