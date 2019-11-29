@@ -61,6 +61,8 @@ In this workshop we will be creating custom digital musical instruments using Ma
 ### Materials and Resources
 * Please download this folder before class and place it in your Documents folder: https://cycling74.s3.amazonaws.com/support/Eyebeam_Max.zip
 * If you want, you can download more free sounds from here: https://freesound.org/
+* [In-Class Slides](https://docs.google.com/presentation/d/1bmr0GAqEUD8WHfwTLrvCFKsorChHnlksGp6hjkwrkvM/edit?usp=sharing)
+* [Teaching Guide](https://docs.google.com/presentation/d/1dr5hVbHCr9S4n63jifR-UM-UomX1E9xBneJHQFddx6o/edit?usp=sharing)
 
 ### Vocabulary
 * DAW (Digital Audio Workstation): Software used for recording, editing, and producing audio files
